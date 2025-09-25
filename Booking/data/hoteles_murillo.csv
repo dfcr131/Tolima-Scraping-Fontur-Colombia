@@ -1,27 +1,157 @@
-﻿Nombre,Puntuacion,Comentarios
-Ecoparque Nevado Del Ruiz,"8,8",88 comentarios
-Hostal Pachanuna,"9,1",179 comentarios
-Hotel Areca,"9,4",45 comentarios
-HOSTAL RANCHO JOTA Murillo Tolima,"8,6",55 comentarios
-Cabañas el condor del Ruíz,"9,2",55 comentarios
-Hostal Casa Celeste,"9,2",48 comentarios
-Stellarium Glamping,"9,5",102 comentarios
-La Vaca Fifí,"8,9",10 comentarios
-Hostal familiar aventura andina,"9,8",26 comentarios
-Hostal Juan Páramo,10,3 comentarios
-El Hostal del Abuelo,"9,4",37 comentarios
-Donde Sara Tourist House,"9,0",4 comentarios
-Refugio Paramo Trek Murillo,"9,0",29 comentarios
-Los Frailejones,,
-Villa Lore Glamping,"8,6",42 comentarios
-Cabañas y Restaurante El Jardin,"8,7",11 comentarios
-Hostal y Restaurante Los Ocobos,"9,0",6 comentarios
-Los frailejones,,
-Cabaña Dos Búhos,"9,0",1 comentario
-Hostal Restaurante Las Mercedes,"7,0",2 comentarios
-Casa Aventura,"8,5",2 comentarios
-Hostal Perla Del Norte,"8,9",48 comentarios
-hospedage murillo,"8,8",31 comentarios
-Cabaña Peñones,,
-Cabañas y Restaurante el Jardin,10,1 comentario
-Hostal Montañas Colombianas,"8,2",17 comentarios
+﻿Nombre,URL,Puntuacion,Comentarios,Municipio,Descripcion,Alrededores
+Hostal Pachanuna,https://www.booking.com/hotel/co/hostal-pachanuna-murillo1.es.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9tdXJpbGxvLCB0b2xpbWFIClgEaDKIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4Aoe-1cYGwAIB0gIkYWU2ZDgwYTctMzc3MS00NTcxLWI5M2EtNGU5MDdhYTliNWI12AIB4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=1&sr_order=popularity&srpvid=3ce36c830aae051c&srepoch=1758813975&from=searchresults,"9,1",179 comentarios,Murillo,"Hostal Pachanuna se encuentra en Murillo y ofrece jardín. Hay terraza, wifi gratis y parking privado gratis.
+
+En el hostal o pensión, todas las habitaciones tienen un patio con vistas a la montaña. Hostal Pachanuna ofrece algunas unidades con vistas a la ciudad, y todas cuentan con balcón.
+
+El aeropuerto (Aeropuerto de La Nubia) está a 76 km.",Restaurantes y cafeterías: Cafetería/barCasa Cafe Tolima - 300 m; RestaurantePanadería Murillo - 23 km; Cafetería/barCafetería y miscelánea - 23 km || Aeropuertos más cercanos: Aeropuerto de La Nubia - 70 km
+Cabañas el condor del Ruíz,https://www.booking.com/hotel/co/cabanas-el-condor-del-ruiz.es.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9tdXJpbGxvLCB0b2xpbWFIClgEaDKIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4Aoe-1cYGwAIB0gIkYWU2ZDgwYTctMzc3MS00NTcxLWI5M2EtNGU5MDdhYTliNWI12AIB4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=2&hapos=2&sr_order=popularity&srpvid=3ce36c830aae051c&srepoch=1758813975&from=searchresults,"9,2",55 comentarios,Murillo,"Cabañas el condor del Ruíz está en Murillo y ofrece alojamiento con wifi gratis, jardín con terraza y vistas a la montaña.
+
+El agroturismo ofrece desayuno a la carta o americano.
+
+El aeropuerto (Aeropuerto de La Nubia) está a 77 km.",Restaurantes y cafeterías: Cafetería/barCasa Cafe Tolima - 600 m; RestaurantePanadería Murillo - 22 km; Cafetería/barCafetería y miscelánea - 22 km || Aeropuertos más cercanos: Aeropuerto de La Nubia - 70 km
+Hostal Casa Celeste,https://www.booking.com/hotel/co/hostal-casa-celeste.es.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9tdXJpbGxvLCB0b2xpbWFIClgEaDKIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4Aoe-1cYGwAIB0gIkYWU2ZDgwYTctMzc3MS00NTcxLWI5M2EtNGU5MDdhYTliNWI12AIB4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=3&hapos=3&sr_order=popularity&srpvid=3ce36c830aae051c&srepoch=1758813975&from=searchresults,"9,2",49 comentarios,Murillo,"Hostal Casa Celeste se encuentra en Murillo. El hostal o pensión libre de humo ofrece wifi gratis en todo el alojamiento.
+
+Todas las habitaciones tienen baño privado, algunas ofrecen balcón y otras también tienen vistas a la ciudad.
+
+El aeropuerto (Aeropuerto de La Nubia) está a 76 km.",Restaurantes y cafeterías: Cafetería/barCasa Cafe Tolima - 30 m; RestaurantePanadería Murillo - 22 km; Cafetería/barCafetería y miscelánea - 23 km || Aeropuertos más cercanos: Aeropuerto de La Nubia - 70 km
+Hotel Areca,https://www.booking.com/hotel/co/areca.es.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9tdXJpbGxvLCB0b2xpbWFIClgEaDKIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4Aoe-1cYGwAIB0gIkYWU2ZDgwYTctMzc3MS00NTcxLWI5M2EtNGU5MDdhYTliNWI12AIB4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=4&hapos=4&sr_order=popularity&srpvid=3ce36c830aae051c&srepoch=1758813975&from=searchresults,"9,4",45 comentarios,Murillo,"Hotel Areca ofrece alojamiento en Murillo. El alojamiento dispone de servicio de habitaciones y recepción 24 horas.
+
+Las habitaciones de este alojamiento tienen baño privado con ducha y artículos de aseo gratuitos, además de wifi gratis. Algunas de las habitaciones también incluyen vistas a la montaña. En el hotel, cada habitación dispone de ropa de cama y toallas.
+
+El aeropuerto (Aeropuerto de La Nubia) está a 77 km.",Restaurantes y cafeterías: Cafetería/barCasa Cafe Tolima - 600 m; RestaurantePanadería Murillo - 22 km; Cafetería/barCafetería y miscelánea - 22 km || Aeropuertos más cercanos: Aeropuerto de La Nubia - 70 km
+Stellarium Glamping,https://www.booking.com/hotel/co/stellarium-glamping.es.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9tdXJpbGxvLCB0b2xpbWFIClgEaDKIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4Aoe-1cYGwAIB0gIkYWU2ZDgwYTctMzc3MS00NTcxLWI5M2EtNGU5MDdhYTliNWI12AIB4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=5&hapos=5&sr_order=popularity&srpvid=3ce36c830aae051c&srepoch=1758813975&from=searchresults,"9,5",102 comentarios,Murillo,"Stellarium Glamping está en Murillo, en la región de Tolima. Ofrece alojamiento con parking privado gratis y acceso a la bañera de hidromasaje. El alojamiento tiene bañera de hidromasaje y bañera de hidromasaje.
+
+Todas las unidades tienen baño privado totalmente equipado con ducha y artículos de aseo gratuitos.
+
+El tented camp dispone de terraza, además de jardín.
+
+El aeropuerto (Aeropuerto de La Nubia) está a 72 km.","Restaurantes y cafeterías: Cafetería/barCasa Cafe Tolima - 1,6 km; RestaurantePanadería Murillo - 21 km; Cafetería/barCafetería y miscelánea - 21 km || Aeropuertos más cercanos: Aeropuerto de La Nubia - 71 km"
+Ecoparque Nevado Del Ruiz,https://www.booking.com/hotel/co/ecoparque-nevado-del-ruiz.es.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9tdXJpbGxvLCB0b2xpbWFIClgEaDKIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4Aoe-1cYGwAIB0gIkYWU2ZDgwYTctMzc3MS00NTcxLWI5M2EtNGU5MDdhYTliNWI12AIB4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=6&hapos=6&sr_order=popularity&srpvid=3ce36c830aae051c&srepoch=1758813975&from=searchresults,"8,8",88 comentarios,Murillo,"Ecoparque Nevado Del Ruiz está en Murillo y tiene jardín, terraza, bar y wifi gratis en todo el alojamiento. Hay parking privado gratis y el alojamiento dispone de servicio de traslado de pago para ir o volver del aeropuerto.
+
+En el hotel, todas las habitaciones están equipadas con un balcón con vistas a la montaña. En Ecoparque Nevado Del Ruiz, cada habitación cuenta con baño privado y ropa de cama.
+
+Hay opciones a la carta o americanas de desayuno disponibles en el alojamiento.
+
+La clientela puede practicar actividades en Murillo y alrededores, como senderismo y ciclismo.
+
+El aeropuerto (Aeropuerto de La Nubia) está a 59 km.",Restaurantes y cafeterías: Cafetería/barCasa Cafe Tolima - 14 km; RestauranteEl Ocho - 36 km; RestauranteLa Esperanza - 36 km || Aeropuertos más cercanos: Aeropuerto de La Nubia - 52 km
+La Vaca Fifí,https://www.booking.com/hotel/co/la-vaca-fifi.es.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9tdXJpbGxvLCB0b2xpbWFIClgEaDKIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4Aoe-1cYGwAIB0gIkYWU2ZDgwYTctMzc3MS00NTcxLWI5M2EtNGU5MDdhYTliNWI12AIB4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=7&hapos=7&sr_order=popularity&srpvid=3ce36c830aae051c&srepoch=1758813975&from=searchresults,"9,0",11 comentarios,Murillo,"La Vaca Fifí está en Murillo, en la región de Tolima, y ofrece alojamiento con parking privado gratis.
+
+Las unidades están equipadas con balcón y disponen de TV de pantalla plana y baño privado con ducha y artículos de aseo gratuitos.
+
+En el agroturismo se sirve un desayuno americano.
+
+El aeropuerto (Aeropuerto de La Nubia) está a 79 km.","Restaurantes y cafeterías: Cafetería/barCasa Cafe Tolima - 2,5 km; RestaurantePanadería Murillo - 19 km; Cafetería/barCafetería y miscelánea - 20 km || Aeropuertos más cercanos: Aeropuerto de La Nubia - 72 km"
+Hostal Juan Páramo,https://www.booking.com/hotel/co/hostal-juan-paramo.es.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9tdXJpbGxvLCB0b2xpbWFIClgEaDKIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4Aoe-1cYGwAIB0gIkYWU2ZDgwYTctMzc3MS00NTcxLWI5M2EtNGU5MDdhYTliNWI12AIB4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=8&hapos=8&sr_order=popularity&srpvid=3ce36c830aae051c&srepoch=1758813975&from=searchresults,10,3 comentarios,Murillo,"Hostal Juan Páramo, que tiene jardín, está en Murillo. El hostal o pensión tiene habitaciones familiares.
+
+El aeropuerto (Aeropuerto de La Nubia) está a 70 km.",Restaurantes y cafeterías: Cafetería/barCasa Cafe Tolima - 300 m; RestaurantePanadería Murillo - 22 km; Cafetería/barCafetería y miscelánea - 23 km || Aeropuertos más cercanos: Aeropuerto de La Nubia - 70 km
+El Hostal del Abuelo,https://www.booking.com/hotel/co/el-hostal-del-abuelo.es.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9tdXJpbGxvLCB0b2xpbWFIClgEaDKIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4Aoe-1cYGwAIB0gIkYWU2ZDgwYTctMzc3MS00NTcxLWI5M2EtNGU5MDdhYTliNWI12AIB4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=9&hapos=9&sr_order=popularity&srpvid=3ce36c830aae051c&srepoch=1758813975&from=searchresults,"9,4",37 comentarios,Murillo,"El Hostal del Abuelo ofrece alojamiento en Murillo y cuenta con jardín y wifi gratis.
+
+Todas las unidades tienen balcón con vistas a la ciudad, a la montaña o al lago, y disponen de cocina con nevera y lavavajillas. También hay horno, fogones y cafetera.
+
+El aeropuerto (Aeropuerto de La Nubia) está a 76 km.",Restaurantes y cafeterías: Cafetería/barCasa Cafe Tolima - 300 m; RestaurantePanadería Murillo - 23 km; Cafetería/barCafetería y miscelánea - 23 km || Aeropuertos más cercanos: Aeropuerto de La Nubia - 69 km
+Cabañas y Restaurante El Jardin,https://www.booking.com/hotel/co/cabanas-y-restaurante-el-jardin-murillo1.es.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9tdXJpbGxvLCB0b2xpbWFIClgEaDKIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4Aoe-1cYGwAIB0gIkYWU2ZDgwYTctMzc3MS00NTcxLWI5M2EtNGU5MDdhYTliNWI12AIB4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=10&hapos=10&sr_order=popularity&srpvid=3ce36c830aae051c&srepoch=1758813975&from=searchresults,"8,7",11 comentarios,Murillo,"Cabañas y Restaurante El Jardin se encuentra en Murillo. Hay parking privado en el propio alojamiento.
+
+Esta casa o chalet tiene acceso directo a un balcón y cuenta con 2 dormitorios. La casa o chalet también tiene 1 baño.
+
+El aeropuerto (Aeropuerto de La Nubia) está a 77 km.",Restaurantes y cafeterías: Cafetería/barCasa Cafe Tolima - 800 m; RestaurantePanadería Murillo - 22 km; Cafetería/barCafetería y miscelánea - 22 km || Aeropuertos más cercanos: Aeropuerto de La Nubia - 70 km
+HOSTAL RANCHO JOTA Murillo Tolima,https://www.booking.com/hotel/co/hostal-rancho-jota-murillo-tolima.es.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9tdXJpbGxvLCB0b2xpbWFIClgEaDKIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4Aoe-1cYGwAIB0gIkYWU2ZDgwYTctMzc3MS00NTcxLWI5M2EtNGU5MDdhYTliNWI12AIB4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=11&hapos=11&sr_order=popularity&srpvid=3ce36c830aae051c&srepoch=1758813975&from=searchresults,"8,6",55 comentarios,Murillo,"HOSTAL RANCHO JOTA Murillo Tolima se encuentra en Murillo. El hostal o pensión libre de humo cuenta con wifi gratis en todo el alojamiento.
+
+Cada habitación está equipada con baño privado, y algunas también ofrecen cocina con nevera.
+
+El aeropuerto (Aeropuerto de La Nubia) está a 77 km.",Restaurantes y cafeterías: Cafetería/barCasa Cafe Tolima - 650 m; RestaurantePanadería Murillo - 22 km; Cafetería/barCafetería y miscelánea - 22 km || Aeropuertos más cercanos: Aeropuerto de La Nubia - 70 km
+Refugio Paramo Trek Murillo,https://www.booking.com/hotel/co/refugio-paramo-trek-murillo.es.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9tdXJpbGxvLCB0b2xpbWFIClgEaDKIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4Aoe-1cYGwAIB0gIkYWU2ZDgwYTctMzc3MS00NTcxLWI5M2EtNGU5MDdhYTliNWI12AIB4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=12&hapos=12&sr_order=popularity&srpvid=3ce36c830aae051c&srepoch=1758813975&from=searchresults,"9,0",29 comentarios,Murillo,"Refugio Paramo Trek Murillo está en Murillo y ofrece vistas a la montaña, jardín, terraza y restaurante.
+
+Las unidades cuentan con patio con vistas al jardín.
+
+Se puede practicar ciclismo en los alrededores.
+
+El aeropuerto (Aeropuerto de La Nubia) está a 76 km, y el alojamiento ofrece servicio de traslado de pago para ir o volver del aeropuerto.",Restaurantes y cafeterías: Cafetería/barCasa Cafe Tolima - 550 m; RestaurantePanadería Murillo - 23 km; Cafetería/barCafetería y miscelánea - 23 km || Aeropuertos más cercanos: Aeropuerto de La Nubia - 70 km
+Hostal familiar aventura andina,https://www.booking.com/hotel/co/hostal-familiar-aventura-andina.es.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9tdXJpbGxvLCB0b2xpbWFIClgEaDKIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4Aoe-1cYGwAIB0gIkYWU2ZDgwYTctMzc3MS00NTcxLWI5M2EtNGU5MDdhYTliNWI12AIB4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=13&hapos=13&sr_order=popularity&srpvid=3ce36c830aae051c&srepoch=1758813975&from=searchresults,"9,8",26 comentarios,Murillo,"Hostal familiar aventura andina se encuentra en Murillo. Esta habitación en casa particular ofrece mostrador de información turística y wifi gratis.
+
+La habitación en casa particular cuenta con TV de pantalla plana.
+
+El aeropuerto (Aeropuerto de La Nubia) está a 77 km.",Restaurantes y cafeterías: Cafetería/barCasa Cafe Tolima - 100 m; RestaurantePanadería Murillo - 22 km; Cafetería/barCafetería y miscelánea - 23 km || Aeropuertos más cercanos: Aeropuerto de La Nubia - 70 km
+Hostal y Restaurante Los Ocobos,https://www.booking.com/hotel/co/los-ocobos-suites.es.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9tdXJpbGxvLCB0b2xpbWFIClgEaDKIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4Aoe-1cYGwAIB0gIkYWU2ZDgwYTctMzc3MS00NTcxLWI5M2EtNGU5MDdhYTliNWI12AIB4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=14&hapos=14&sr_order=popularity&srpvid=3ce36c830aae051c&srepoch=1758813975&from=searchresults,"9,0",6 comentarios,Murillo,"Hostal y Restaurante Los Ocobos se encuentra en Murillo y dispone de salón de uso común, terraza, bar y wifi gratis en todo el alojamiento. El alojamiento cuenta con restaurante y también tiene jardín, sauna y bañera de hidromasaje. El alojamiento ofrece personal de animación y servicio de habitaciones.
+
+En el hostal o pensión se puede disfrutar de un desayuno americano.
+
+La clientela puede practicar actividades en Murillo y alrededores, como ciclismo.
+
+El aeropuerto (Aeropuerto de La Nubia) está a 84 km.",Restaurantes y cafeterías: RestaurantePanadería Murillo - 9 km; Cafetería/barCafetería y miscelánea - 9 km; Cafetería/barMeridiano Café - 9 km || Aeropuertos más cercanos: Aeropuerto de La Nubia - 83 km
+Villa Lore Glamping,https://www.booking.com/hotel/co/villa-lore-glamping-murillo.es.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9tdXJpbGxvLCB0b2xpbWFIClgEaDKIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4Aoe-1cYGwAIB0gIkYWU2ZDgwYTctMzc3MS00NTcxLWI5M2EtNGU5MDdhYTliNWI12AIB4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=15&hapos=15&sr_order=popularity&srpvid=3ce36c830aae051c&srepoch=1758813975&from=searchresults,"8,6",42 comentarios,Murillo,"Villa Lore Glamping ofrece alojamiento en Murillo y cuenta con salón de uso común.
+
+En el camping se sirve un desayuno americano.
+
+Villa Lore Glamping ofrece terraza.
+
+En el alojamiento, la clientela puede practicar senderismo en los alrededores o disfrutar del jardín.
+
+El aeropuerto (Aeropuerto de La Nubia) está a 79 km.","Restaurantes y cafeterías: Cafetería/barCasa Cafe Tolima - 4,3 km; RestaurantePanadería Murillo - 27 km; Cafetería/barCafetería y miscelánea - 27 km || Aeropuertos más cercanos: Aeropuerto de La Nubia - 72 km"
+Donde Sara Tourist House,https://www.booking.com/hotel/co/donde-sara-tourist-house-murillo.es.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9tdXJpbGxvLCB0b2xpbWFIClgEaDKIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4Aoe-1cYGwAIB0gIkYWU2ZDgwYTctMzc3MS00NTcxLWI5M2EtNGU5MDdhYTliNWI12AIB4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=16&hapos=16&sr_order=popularity&srpvid=3ce36c830aae051c&srepoch=1758813975&from=searchresults,"9,0",4 comentarios,Murillo,"Donde Sara Tourist House se encuentra en Murillo y ofrece jardín, wifi gratis, salón de uso común y mostrador de información turística.
+
+La casa o chalet de 1 dormitorio cuenta con sala de estar con TV de pantalla plana y cocina totalmente equipada.
+
+El aeropuerto (Aeropuerto de La Nubia) está a 71 km.",Restaurantes y cafeterías: Cafetería/barCasa Cafe Tolima - 550 m; RestaurantePanadería Murillo - 22 km; Cafetería/barCafetería y miscelánea - 22 km || Aeropuertos más cercanos: Aeropuerto de La Nubia - 70 km
+Los Frailejones,https://www.booking.com/hotel/co/los-frailejones.es.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9tdXJpbGxvLCB0b2xpbWFIClgEaDKIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4Aoe-1cYGwAIB0gIkYWU2ZDgwYTctMzc3MS00NTcxLWI5M2EtNGU5MDdhYTliNWI12AIB4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=17&hapos=17&sr_order=popularity&srpvid=3ce36c830aae051c&srepoch=1758813975&from=searchresults,,,Murillo,"Los Frailejones está en Murillo y ofrece alojamiento de 3 estrellas con jardín. Este alojamiento ofrece restaurante, servicio de habitaciones y recepción 24 horas, además de wifi gratis en todo el alojamiento. El hotel tiene habitaciones familiares.
+
+Las habitaciones del alojamiento tienen baño privado con ducha y artículos de aseo gratuitos, y algunas unidades también tienen vistas a la montaña. En el hotel, todas las habitaciones incluyen ropa de cama y toallas.
+
+En Los Frailejones se sirve un desayuno a la carta.
+
+El aeropuerto (Aeropuerto de La Nubia) está a 70 km.",Restaurantes y cafeterías: Cafetería/barCasa Cafe Tolima - 350 m; RestaurantePanadería Murillo - 22 km; Cafetería/barCafetería y miscelánea - 23 km || Aeropuertos más cercanos: Aeropuerto de La Nubia - 70 km
+Los frailejones,https://www.booking.com/hotel/co/los-frailejones-murillo.es.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9tdXJpbGxvLCB0b2xpbWFIClgEaDKIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4Aoe-1cYGwAIB0gIkYWU2ZDgwYTctMzc3MS00NTcxLWI5M2EtNGU5MDdhYTliNWI12AIB4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=18&hapos=18&sr_order=popularity&srpvid=3ce36c830aae051c&srepoch=1758813975&from=searchresults,,,Murillo,"Los frailejones se encuentra en Murillo, en la región de Tolima, y ofrece alojamiento con wifi gratis y parking privado gratis.
+
+Todas las unidades tienen baño privado totalmente equipado con ducha y artículos de aseo gratuitos.
+
+En el camping se puede disfrutar de un desayuno a la carta.
+
+También hay un jardín ideal para relajarse.
+
+El aeropuerto (Aeropuerto de La Nubia) está a 70 km.",Restaurantes y cafeterías: Cafetería/barCasa Cafe Tolima - 450 m; RestaurantePanadería Murillo - 23 km; Cafetería/barCafetería y miscelánea - 23 km || Aeropuertos más cercanos: Aeropuerto de La Nubia - 70 km
+Hostal Perla Del Norte,https://www.booking.com/hotel/co/hostal-perla-del-norte.es.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9tdXJpbGxvLCB0b2xpbWFIClgEaDKIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4Aoe-1cYGwAIB0gIkYWU2ZDgwYTctMzc3MS00NTcxLWI5M2EtNGU5MDdhYTliNWI12AIB4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=19&hapos=19&sr_order=popularity&srpvid=3ce36c830aae051c&srepoch=1758813975&from=searchresults,"8,9",49 comentarios,Murillo,"Hostal Perla Del Norte ofrece alojamiento en Murillo. Este hostal o pensión acepta mascotas y ofrece wifi gratis.
+
+En el hostal o pensión, las habitaciones tienen armario y TV de pantalla plana. En Hostal Perla Del Norte, cada habitación cuenta con ropa de cama y toallas.
+
+En el alojamiento se puede disfrutar de un desayuno a la carta o continental.
+
+El aeropuerto (Aeropuerto de La Nubia) está a 71 km.",Restaurantes y cafeterías: Cafetería/barCasa Cafe Tolima - 200 m; RestaurantePanadería Murillo - 22 km; Cafetería/barCafetería y miscelánea - 23 km || Aeropuertos más cercanos: Aeropuerto de La Nubia - 70 km
+Casa Aventura,https://www.booking.com/hotel/co/casa-adventure.es.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9tdXJpbGxvLCB0b2xpbWFIClgEaDKIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4Aoe-1cYGwAIB0gIkYWU2ZDgwYTctMzc3MS00NTcxLWI5M2EtNGU5MDdhYTliNWI12AIB4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=20&hapos=20&sr_order=popularity&srpvid=3ce36c830aae051c&srepoch=1758813975&from=searchresults,"8,5",2 comentarios,Murillo,"Casa Aventura se encuentra en Murillo. Se ofrece wifi gratis en todo el alojamiento.
+
+El apartamento incluye 3 dormitorios, una sala de estar y 1 baño con artículos de aseo gratuitos y ducha. Se ofrece TV de pantalla plana.
+
+El aeropuerto (Aeropuerto de La Nubia) está a 76 km.",Restaurantes y cafeterías: Cafetería/barCasa Cafe Tolima - 100 m; RestaurantePanadería Murillo - 22 km; Cafetería/barCafetería y miscelánea - 23 km || Aeropuertos más cercanos: Aeropuerto de La Nubia - 70 km
+hospedage murillo,https://www.booking.com/hotel/co/hospedage-murillo.es.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9tdXJpbGxvLCB0b2xpbWFIClgEaDKIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4Aoe-1cYGwAIB0gIkYWU2ZDgwYTctMzc3MS00NTcxLWI5M2EtNGU5MDdhYTliNWI12AIB4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=21&hapos=21&sr_order=popularity&srpvid=3ce36c830aae051c&srepoch=1758813975&from=searchresults,"8,8",31 comentarios,Murillo,"Hospedage murillo se encuentra en Murillo. Hay terraza, wifi gratis y parking privado gratis.
+
+En el hostal o pensión, todas las habitaciones tienen baño privado y algunas también ofrecen balcón.
+
+El aeropuerto (Aeropuerto de La Nubia) está a 70 km.",Restaurantes y cafeterías: Cafetería/barCasa Cafe Tolima - 350 m; RestaurantePanadería Murillo - 22 km; Cafetería/barCafetería y miscelánea - 22 km || Aeropuertos más cercanos: Aeropuerto de La Nubia - 70 km
+Hostal Restaurante Las Mercedes,https://www.booking.com/hotel/co/hostal-restaurante-las-mercedes.es.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9tdXJpbGxvLCB0b2xpbWFIClgEaDKIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4Aoe-1cYGwAIB0gIkYWU2ZDgwYTctMzc3MS00NTcxLWI5M2EtNGU5MDdhYTliNWI12AIB4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=22&hapos=22&sr_order=popularity&srpvid=3ce36c830aae051c&srepoch=1758813975&from=searchresults,"7,0",2 comentarios,Murillo,"Hostal Restaurante Las Mercedes está en Murillo y dispone de alojamiento con jardín, wifi gratis, servicio de habitaciones y recepción 24 horas. Hay un restaurante en el alojamiento y parking privado gratis.
+
+El alojamiento ofrece cocina.
+
+Se puede descubrir la zona practicando ciclismo en los alrededores.
+
+El aeropuerto (Aeropuerto de La Nubia) está a 70 km.",Restaurantes y cafeterías: Cafetería/barCasa Cafe Tolima - 100 m; RestaurantePanadería Murillo - 22 km; Cafetería/barCafetería y miscelánea - 23 km || Aeropuertos más cercanos: Aeropuerto de La Nubia - 70 km
+Cabaña Dos Búhos,https://www.booking.com/hotel/co/cabana-dos-buhos.es.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9tdXJpbGxvLCB0b2xpbWFIClgEaDKIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4Aoe-1cYGwAIB0gIkYWU2ZDgwYTctMzc3MS00NTcxLWI5M2EtNGU5MDdhYTliNWI12AIB4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=23&hapos=23&sr_order=popularity&srpvid=3ce36c830aae051c&srepoch=1758813975&from=searchresults,"9,0",1 comentario,Murillo,"Cabaña Dos Búhos se encuentra en Murillo y ofrece jardín y bar. Este chalet de montaña ofrece parking privado gratis, servicio de habitaciones y wifi gratis.
+
+El chalet de montaña cuenta con terraza y vistas a la montaña, y dispone de 5 dormitorios, una sala de estar, TV de pantalla plana, una cocina equipada con nevera y horno, y 4 baños con bañera de hidromasaje. Para mayor comodidad, el alojamiento puede ofrecer toallas y ropa de cama por un suplemento.
+
+En el chalet de montaña se puede disfrutar de un desayuno americano.
+
+Cabaña Dos Búhos ofrece bañera de hidromasaje. Se puede practicar ciclismo en los alrededores.
+
+El aeropuerto (Aeropuerto de La Nubia) está a 82 km, y el alojamiento ofrece servicio de traslado de pago para ir o volver del aeropuerto.",Restaurantes y cafeterías: RestaurantePanadería Murillo - 10 km; Cafetería/barMeridiano Café - 10 km; Cafetería/barCafetería y miscelánea - 11 km || Aeropuertos más cercanos: Aeropuerto de La Nubia - 82 km
+Cabañas y Restaurante el Jardin,https://www.booking.com/hotel/co/cabanas-y-restaurante-el-jardin.es.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9tdXJpbGxvLCB0b2xpbWFIClgEaDKIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4Aoe-1cYGwAIB0gIkYWU2ZDgwYTctMzc3MS00NTcxLWI5M2EtNGU5MDdhYTliNWI12AIB4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=24&hapos=24&sr_order=popularity&srpvid=3ce36c830aae051c&srepoch=1758813975&from=searchresults,10,1 comentario,Murillo,"Cabañas y Restaurante el Jardin está en Murillo y ofrece jardín y bar. Hay wifi gratis y se ofrece parking privado por un suplemento.
+
+Esta casa o chalet ofrece acceso directo a un balcón y cuenta con 2 dormitorios. La casa o chalet también incluye 1 baño.
+
+El aeropuerto (Aeropuerto de La Nubia) está a 77 km.",Restaurantes y cafeterías: Cafetería/barCasa Cafe Tolima - 700 m; RestaurantePanadería Murillo - 21 km; Cafetería/barCafetería y miscelánea - 22 km || Aeropuertos más cercanos: Aeropuerto de La Nubia - 70 km
+Cabaña Peñones,https://www.booking.com/hotel/co/cabana-penones.es.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9tdXJpbGxvLCB0b2xpbWFIClgEaDKIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4Aoe-1cYGwAIB0gIkYWU2ZDgwYTctMzc3MS00NTcxLWI5M2EtNGU5MDdhYTliNWI12AIB4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=25&hapos=25&sr_order=popularity&srpvid=3ce36c830aae051c&srepoch=1758813975&from=searchresults,,,Murillo,"Cabaña Peñones, que tiene terraza, dispone de alojamiento en Murillo con wifi gratis y vistas al jardín. Este chalet de montaña tiene jardín y parking privado gratis.
+
+Este chalet de montaña consta de 1 dormitorio independiente, una sala de estar, una cocina totalmente equipada y 7 baños.",Restaurantes y cafeterías: RestaurantePanadería Murillo - 10 km; Cafetería/barMeridiano Café - 10 km; Cafetería/barCafetería y miscelánea - 11 km || Aeropuertos más cercanos: Aeropuerto de La Nubia - 82 km
+Hostal Montañas Colombianas,https://www.booking.com/hotel/co/hostal-montanas-colombianas.es.html?aid=304142&label=gen173nr-10CAQoggJCFnNlYXJjaF9tdXJpbGxvLCB0b2xpbWFIClgEaDKIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4Aoe-1cYGwAIB0gIkYWU2ZDgwYTctMzc3MS00NTcxLWI5M2EtNGU5MDdhYTliNWI12AIB4AIB&ucfs=1&arphpl=1&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0&hpos=1&hapos=26&sr_order=popularity&srpvid=3ce36c830aae051c&srepoch=1758813975&from=searchresults,"8,2",17 comentarios,Murillo,"Hostal Montañas Colombianas está en Murillo, en la región de Tolima, y ofrece alojamiento con parking privado gratis.
+
+Se puede disfrutar de un momento de relax en el jardín del alojamiento.
+
+El aeropuerto (Aeropuerto de La Nubia) está a 70 km.",Restaurantes y cafeterías: Cafetería/barCasa Cafe Tolima - 450 m; RestaurantePanadería Murillo - 23 km; Cafetería/barCafetería y miscelánea - 23 km || Aeropuertos más cercanos: Aeropuerto de La Nubia - 69 km
